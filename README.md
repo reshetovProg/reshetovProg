@@ -7,6 +7,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## About my projects
+### About my projects
 - [rest-api-employee](https://github.com/reshetovProg/rest-api-employee) - SPRING REST API APPLICATION
 - [file manager](https://github.com/reshetovProg/fileManager/tree/master) - JAVAFX FILE MANAGER APPLICATION
