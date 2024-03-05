@@ -22,3 +22,4 @@
 - [fullstack-todo](https://github.com/reshetovProg/todo-rest-api) - SPRING + REACT todo app
 - [file manager](https://github.com/reshetovProg/fileManager/tree/master) - JAVAFX FILE MANAGER APPLICATION
 - [jwt-auth](https://github.com/reshetovProg/jwtsecur) - SPRING SECURITY JWT AUTH
+- [rpg-game-sfml](https://github.com/reshetovProg/rpgsfml) - RPG GAME SFML
