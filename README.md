@@ -19,5 +19,5 @@
 
 
 ### my projects
-- [fullstack-todo](https://github.com/reshetovProg/todo-rest-api)) - SPRING + REACT todo app
+- [fullstack-todo](https://github.com/reshetovProg/todo-rest-api) - SPRING + REACT todo app
 - [file manager](https://github.com/reshetovProg/fileManager/tree/master) - JAVAFX FILE MANAGER APPLICATION
